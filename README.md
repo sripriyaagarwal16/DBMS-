@@ -5,7 +5,6 @@ This section contains a structured list of curated videos, notes, blogs, and add
 
 ---
 
-![DBMS Banner](https://via.placeholder.com/1000x300.png?text=DBMS+Resources)
 
 Now we’re getting to the good parts.
 
